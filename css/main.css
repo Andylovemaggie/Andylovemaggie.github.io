@@ -1,0 +1,19 @@
+/* 
+       Voyga.
+*/
+
+@font-face
+{
+    font-family: PoiretOne;
+
+    src: url(../font/PoiretOne.ttf);
+}
+#title
+{
+    font-family: PoiretOne;
+    font-size: 64px;
+
+    margin-top: 250px;
+
+    text-align: center;
+}
